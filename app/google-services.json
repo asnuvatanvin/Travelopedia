@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500748196506",
+    "firebase_url": "https://travelopedia-9a423.firebaseio.com",
+    "project_id": "travelopedia-9a423",
+    "storage_bucket": "travelopedia-9a423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500748196506:android:bb201af3b206d135a19d23",
+        "android_client_info": {
+          "package_name": "com.example.travelopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500748196506-0o624sp6n7bj07m23qhckml4bu138s0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelopedia",
+            "certificate_hash": "11867c1bb0657581216d60bb85b989e86ee2f5d9"
+          }
+        },
+        {
+          "client_id": "500748196506-3br0ltfkumg8ki9r59a7p7pp9pi8snlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66kKhj_Hus2rkM3YPqi6Deh_LuxjaLcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500748196506-3br0ltfkumg8ki9r59a7p7pp9pi8snlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

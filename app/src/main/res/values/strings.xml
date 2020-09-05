@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Travelopedia</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Log In</string>
+    <string name="mail">Email</string>
+    <string name="regg">Register</string>
+    <string name="Head">TRAVELOPEDIA</string>
+    <string name="fullname">Fullname</string>
+    <string name="country">Country</string>
+    <string name="new_password">Password</string>
+    <string name="search1">Where do you want to go?</string>
+    <string name="reg">Don\'t Have an Account? Sign Up</string>
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>England</item>
+        <item>France</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Nepal</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Thailand</item>
+    </string-array>
+
+    <string-array name="startpage">
+        <item>Destinations</item>
+        <item>Explore Nearby</item>
+        <item>Your Trips</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="destination">Destinations</string>
+    <string name="profile">Your Profile</string>
+    <string name="trips">Your Trips</string>
+    <string name="near">Your Location</string>
+    <string name="Welcome">Welcome</string>
+    <string name="city">Cities</string>
+    <string name="sights">Tourist Sites</string>
+    <string name="knowmore">About</string>
+    <string name="map">Map</string>
+    <string name="weather">Weather</string>
+
+    <string-array name="Bangladeshcity">
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Rangpur</item>
+        <item>Rajshahi</item>
+        <item>Mymensingh</item>
+    </string-array>
+
+    <string-array name="touristsitesBangladesh">
+        <item>Somapura Mahavihara</item>
+        <item>Ahsan Manzil</item>
+        <item>Lalbag Fort</item>
+        <item>National Memorial</item>
+        <item>Nafa_Khum</item>
+        <item>Shaheed Minar</item>
+        <item>Ratargul Swamp Forest</item>
+        <item>Sundarbans</item>
+        <item>Sajek Valley</item>
+        <item>St. Martin\'s Island</item>
+        <item>Sri Mangal</item>
+        <item>Tangua Haor</item>
+        <item>Kantajew Mandir</item>
+        <item>Cox\'s Bazar</item>
+        <item>Guliakhali Beach</item>
+    </string-array>
+    <string-array name="touristsitesbd">
+        <item>Naogaon</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Bandarban</item>
+        <item>Dhaka</item>
+        <item>Sylhet</item>
+        <item>Satkhira</item>
+        <item>Bandarban</item>
+        <item>Bay of Bengal</item>
+        <item>Sylhet</item>
+        <item>Sunamgonj</item>
+        <item>Dinajpur</item>
+        <item>Cox\'s Bazar</item>
+        <item>Chattogram</item>
+    </string-array>
+
+    <string-array name="SriLankacities">
+        <item>Colombo</item>
+        <item>Kandy</item>
+        <item>Galle</item>
+        <item>Negombo</item>
+        <item>Trincomalee</item>
+        <item>Anuradhapura</item>
+        <item>Sri Jayawardenepura Kotte</item>
+    </string-array>
+    <string-array name="indiacities">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Jaipur</item>
+        <item>Guwahati</item>
+        <item>Shillong</item>
+        <item>Ahmedabad</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+    </string-array>
+    <string-array name="malaysiacities">
+        <item>Kuala Lumpur City</item>
+        <item>Ipoh</item>
+        <item>Malacca</item>
+        <item>Penang</item>
+        <item>Putrajaya</item>
+    </string-array>
+    <string-array name="allcities">
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Rangpur</item>
+        <item>Rajshahi</item>
+        <item>Mymensingh</item>
+        <item>Colombo</item>
+        <item>Kandy</item>
+        <item>Galle</item>
+        <item>Negombo</item>
+        <item>Trincomalee</item>
+        <item>Anuradhapura</item>
+        <item>Sri Jayawardenepura Kotte</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Jaipur</item>
+        <item>Guwahati</item>
+        <item>Shillong</item>
+        <item>Ahmedabad</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+        <item>Kuala Lumpur City</item>
+        <item>Ipoh</item>
+        <item>Malacca</item>
+        <item>Penang</item>
+        <item>Putrajaya</item>
+    </string-array>
+    <string-array name="longitude">
+        <item>23.8103</item>
+        <item>22.3569</item>
+        <item>24.8949</item>
+        <item>22.8456</item>
+        <item>22.7010</item>
+        <item>25.7439</item>
+        <item>24.3745</item>
+        <item>24.7471</item>
+    </string-array>
+    <string-array name="lattitude">
+        <item>90.4125</item>
+        <item>91.7832</item>
+        <item>91.8687</item>
+        <item>89.5403</item>
+        <item>90.3535</item>
+        <item>89.2752</item>
+        <item>88.6042</item>
+        <item>90.4203</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
